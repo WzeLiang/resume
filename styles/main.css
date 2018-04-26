@@ -99,8 +99,9 @@ h1 {
     width: 8rem;
     height: 8rem;
     margin: 1.5rem auto;
-    background: url("../images/nomore2.jpg") center;
-    background-size: cover
+    background: url("../images/nomore2.jpg") center no-repeat;
+    background-size: 70%;
+    background-position-y: -3px;
 }
 
 .info .name {
