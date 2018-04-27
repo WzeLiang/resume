@@ -260,10 +260,14 @@ h1 {
     line-height: normal;
     color: #727582
 }
-
+.experiences .work .box .content{
+    font-size: .67rem;
+    line-height: normal;
+    color: #727582
+}
 .experiences .work time {
     display: block;
-    font-size: .5rem;
+    font-size: .8rem;
     color: #2E3338
 }
 
@@ -279,7 +283,8 @@ h1 {
     padding-left: 1rem;
     font-size: .6rem;
     line-height: .8rem;
-    color: #000
+    color: #000;
+    letter-spacing: .02rem;
 }
 
 @media screen and (max-width: 480px) {
